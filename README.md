@@ -6,6 +6,6 @@
 💬 Ask me about React-Native and Machine Learning
 📫 How to reach me: Paarthbathla.ca@gmail.com
 
-Conect With Me 🤝 : 
+Connect With Me 🤝 : 
 Linkedin: https://www.linkedin.com/in/paarthbathla/
 Instagram: https://www.instagram.com/_.par16/
