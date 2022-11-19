@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Paarth Bathla (@Paarthbathla338)
-- 👀 I’m interested in Web Development...
-- 📫 Reach me through my mail- Paarth.bathla@outlook.com...
-- Checkout My Website - Paarthbathla338.github.io
-- 
+👋 Hi, I’m Paarth Bathla (@Paarthbathla338), A Passionate Developer from Calgary, AB
+🔭 I’m currently working in GigOut, a Tech Startup based in SF
+🌱 I’m currently Working on Mobile App (React-Native/AWS)
+🤝 I’m available for freelancing.
 
-<!---
-Paarthbathla338/Paarthbathla338 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💬 Ask me about React-Native and Machine Learning
+📫 How to reach me: Paarthbathla.ca@gmail.com
+
+Conect With Me 🤝 : 
+Linkedin: https://www.linkedin.com/in/paarthbathla/
+Instagram: https://www.instagram.com/_.par16/
